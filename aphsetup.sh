@@ -40,8 +40,10 @@ listen=1
 masternode=1' |tee -a  ~/.apholding/apholding.conf
 echo 'externalip='$ServerIP |tee -a ~/.apholding/apholding.conf
 echo 'masternodeprivkey='$Genkey |tee -a  ~/.apholding/apholding.conf
-echo '#addnode=45.32.185.152' |tee -a  ~/.apholding/apholding.conf
-echo '#addnode=45.76.130.135' |tee -a  ~/.apholding/apholding.conf
+echo 'addnode=209.250.255.236' |tee -a  ~/.apholding/apholding.conf
+echo 'addnode=95.179.183.141' |tee -a  ~/.apholding/apholding.conf
+echo 'addnode=46.165.228.105' |tee -a  ~/.apholding/apholding.conf
+echo 'addnode=37.221.196.210' |tee -a  ~/.apholding/apholding.conf
 echo "#############################################"
 echo "#######       setup 1AP-Daemon        #######"
 echo "#############################################"
