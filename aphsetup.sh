@@ -48,9 +48,9 @@ echo "#############################################"
 mkdir ~/apholding
 cd ~/apholding
 # --> hier Download und Dateinamen anpassen
-wget https://github.com/1apdeveloper/mn-setup/raw/master/apholding-cli
-wget https://github.com/1apdeveloper/mn-setup/raw/master/apholding-tx
-wget https://github.com/1apdeveloper/mn-setup/raw/master/apholdingd
+wget https://github.com/1apdeveloper/mn-script/raw/master/apholding-cli
+wget https://github.com/1apdeveloper/mn-script/raw/master/apholding-tx
+wget https://github.com/1apdeveloper/mn-script/raw/master/apholdingd
 chmod +x *
 ./apholdingd &
 sleep 10
