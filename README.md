@@ -37,7 +37,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
-wget https://github.com/1apdeveloper/mn-script/blob/master/aphsetup.sh && chmod +x aphsetup.sh && ./aphsetup.sh
+wget https://raw.githubusercontent.com/1apdeveloper/mn-script/master/aphsetup.sh && chmod +x aphsetup.sh && ./aphsetup.sh
 
 to start the server : 
  
