@@ -1,4 +1,4 @@
-### Setup a Masternode
+### Setup a Masternode - TESTMODUS BETA
 
 in wallet: Open Debug console: 
 
