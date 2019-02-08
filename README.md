@@ -20,6 +20,7 @@ send exact 50000 Coins to the address (confirmation need: 15)
 
 
 ### on VPS (f.e.: digital ocean, vultr...) Ubuntu 1604 !! on vultr(minimum 3.50$ per month)
+you can use the terminal, but easier is putty!
 
 sudo apt-get update
 
